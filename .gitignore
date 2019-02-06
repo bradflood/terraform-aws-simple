@@ -1,0 +1,4 @@
+.project
+.terraform
+*.tfstate
+*.tfstate.backup
